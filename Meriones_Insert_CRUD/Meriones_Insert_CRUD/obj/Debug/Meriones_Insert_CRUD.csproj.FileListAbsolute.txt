@@ -1,0 +1,17 @@
+C:\Users\Aamir\source\repos\Meriones_Insert_CRUD\Meriones_Insert_CRUD\obj\Debug\Meriones_Insert_CRUD.csprojAssemblyReference.cache
+C:\Users\Aamir\source\repos\Meriones_Insert_CRUD\Meriones_Insert_CRUD\obj\Debug\Meriones_Insert_CRUD.Properties.Resources.resources
+C:\Users\Aamir\source\repos\Meriones_Insert_CRUD\Meriones_Insert_CRUD\obj\Debug\Meriones_Insert_CRUD.csproj.GenerateResource.cache
+C:\Users\Aamir\source\repos\Meriones_Insert_CRUD\Meriones_Insert_CRUD\bin\Debug\Meriones_Insert_CRUD.exe.config
+C:\Users\Aamir\source\repos\Meriones_Insert_CRUD\Meriones_Insert_CRUD\bin\Debug\Meriones_Insert_CRUD.exe
+C:\Users\Aamir\source\repos\Meriones_Insert_CRUD\Meriones_Insert_CRUD\bin\Debug\Meriones_Insert_CRUD.pdb
+C:\Users\Aamir\source\repos\Meriones_Insert_CRUD\Meriones_Insert_CRUD\obj\Debug\Meriones_Insert_CRUD.exe
+C:\Users\Aamir\source\repos\Meriones_Insert_CRUD\Meriones_Insert_CRUD\obj\Debug\Meriones_Insert_CRUD.pdb
+C:\Users\Aamir\source\repos\Meriones_Insert_CRUD\Meriones_Insert_CRUD\obj\Debug\Meriones_Insert_CRUD.Meriones_Sample.resources
+D:\1.Practice Programming\Others\Meriones_Insert_CRUD\Meriones_Insert_CRUD\bin\Debug\Meriones_Insert_CRUD.exe.config
+D:\1.Practice Programming\Others\Meriones_Insert_CRUD\Meriones_Insert_CRUD\bin\Debug\Meriones_Insert_CRUD.exe
+D:\1.Practice Programming\Others\Meriones_Insert_CRUD\Meriones_Insert_CRUD\bin\Debug\Meriones_Insert_CRUD.pdb
+D:\1.Practice Programming\Others\Meriones_Insert_CRUD\Meriones_Insert_CRUD\obj\Debug\Meriones_Insert_CRUD.Meriones_Sample.resources
+D:\1.Practice Programming\Others\Meriones_Insert_CRUD\Meriones_Insert_CRUD\obj\Debug\Meriones_Insert_CRUD.Properties.Resources.resources
+D:\1.Practice Programming\Others\Meriones_Insert_CRUD\Meriones_Insert_CRUD\obj\Debug\Meriones_Insert_CRUD.csproj.GenerateResource.cache
+D:\1.Practice Programming\Others\Meriones_Insert_CRUD\Meriones_Insert_CRUD\obj\Debug\Meriones_Insert_CRUD.exe
+D:\1.Practice Programming\Others\Meriones_Insert_CRUD\Meriones_Insert_CRUD\obj\Debug\Meriones_Insert_CRUD.pdb
